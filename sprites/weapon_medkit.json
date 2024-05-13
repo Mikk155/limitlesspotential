@@ -1,0 +1,30 @@
+{
+	"weapon": {
+		"SpriteName": "hud_medkit1",
+		"Left": 0,
+		"Top": 90,
+		"Width": 170,
+		"Height": 45
+	},
+	"weapon_s": {
+		"SpriteName": "hud_medkit2",
+		"Left": 0,
+		"Top": 180,
+		"Width": 170,
+		"Height": 45
+	},
+	"ammo": {
+		"SpriteName": "medkit_ammo",
+		"Left": 192,
+		"Top": 84,
+		"Width": 24,
+		"Height": 24
+	},
+	"ammo2": {
+		"SpriteName": "medkit_ammo",
+		"Left": 168,
+		"Top": 60,
+		"Width": 24,
+		"Height": 24
+	}
+}
