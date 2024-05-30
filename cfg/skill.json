@@ -587,7 +587,7 @@
 	"longjump_fallvelocity": 0,
 	// 0 allow for jumping to back and sides
 	// 1 force straight jumping as is in Half-Life
-	"longjump_straight": 1,
+	"longjump_straight": 0,
 	// 0 don't do any noise
 	// 1 do player/pl_long_jump.wav
 	"longjump_sound": 0,
