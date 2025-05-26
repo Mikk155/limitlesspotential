@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Skill2Json/1.0.0": {
         "dependencies": {
-          "HalfLife.UnifiedSdk.Formats": "1.0.0",
+          "Formats": "1.0.0",
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
@@ -159,15 +159,15 @@
         }
       },
       "System.Security.Principal.Windows/5.0.0": {},
-      "HalfLife.UnifiedSdk.Formats/1.0.0": {
+      "Formats/1.0.0": {
         "dependencies": {
-          "HalfLife.UnifiedSdk.Utilities": "1.0.0"
+          "Utilities": "1.0.0"
         },
         "runtime": {
-          "HalfLife.UnifiedSdk.Formats.dll": {}
+          "Formats.dll": {}
         }
       },
-      "HalfLife.UnifiedSdk.Utilities/1.0.0": {
+      "Utilities/1.0.0": {
         "dependencies": {
           "Microsoft.Win32.Registry": "5.0.0",
           "Newtonsoft.Json": "13.0.3",
@@ -180,7 +180,7 @@
           "Semver": "2.3.0"
         },
         "runtime": {
-          "HalfLife.UnifiedSdk.Utilities.dll": {}
+          "Utilities.dll": {}
         }
       }
     }
@@ -289,12 +289,12 @@
       "path": "system.security.principal.windows/5.0.0",
       "hashPath": "system.security.principal.windows.5.0.0.nupkg.sha512"
     },
-    "HalfLife.UnifiedSdk.Formats/1.0.0": {
+    "Formats/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "HalfLife.UnifiedSdk.Utilities/1.0.0": {
+    "Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
