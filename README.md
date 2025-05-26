@@ -1,3 +1,3 @@
 # limitlesspotential
 
-Assets for Limitless Potential mod
+Assets for [Mikk155/halflife-unified-sdk](https://github.com/Mikk155/halflife-unified-sdk)
