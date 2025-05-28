@@ -16,7 +16,7 @@
     "3"
     {
         "label" "#GameUI_CampaignSelect"
-        "command" "engine disconnect; maxplayers 1; map test"
+        "command" "engine disconnect; maxplayers 1; map -sp_campaign_selection"
     }
     "4"
     {
