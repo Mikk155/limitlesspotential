@@ -1,7 +1,0 @@
-{
-	"Includes": [
-		"cfg/OpposingForceConfig.json"
-	],
-	"GameMode": "ctf",
-	"LockGameMode": true
-}

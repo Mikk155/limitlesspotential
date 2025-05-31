@@ -1,0 +1,8 @@
+{
+    "include":
+    [
+        "cfg/maps/globals/opfor/main.json"
+    ],
+    "GameMode": "ctf",
+    "LockGameMode": true
+}

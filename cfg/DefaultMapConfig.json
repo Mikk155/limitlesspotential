@@ -1,8 +1,0 @@
-// Default map configuration file.
-// This file simply includes the game config for Half-Life.
-// This file should never be included by another configuration file.
-{
-	"Includes": [
-		"cfg/HalfLifeConfig.json"
-	]
-}

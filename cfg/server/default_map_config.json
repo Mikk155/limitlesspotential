@@ -1,0 +1,9 @@
+// Default map configuration file.
+// This file is loaded if the server fails to get a map cfg.
+// This file should never be included by another configuration file.
+{
+    "include":
+    [
+        "cfg/server/map_base_config.json"
+    ]
+}

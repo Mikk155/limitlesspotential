@@ -1,0 +1,24 @@
+{
+    "include":
+    [
+        "cfg/server/map_base_config.json"
+    ],
+    "SectionGroups":
+    [
+        {
+            "Sections":
+            {
+                "GlobalModelReplacement":
+                {
+                    "FileNames":
+                    [
+                        "cfg/maps/globals/halflife/model_replacement.json"
+                    ]
+                },
+                "HudColor": "255 160 0",
+                "CrosshairColor": "255 160 0",
+                "SuitLightType": "flashlight"
+            }
+        }
+    ]
+}

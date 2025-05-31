@@ -1,4 +1,0 @@
-// Per-entity model replacement file for test_replacements.bsp
-{
-	"models/zombie.mdl": "models/scientist.mdl"
-}

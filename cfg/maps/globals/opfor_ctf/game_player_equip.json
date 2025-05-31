@@ -1,24 +1,19 @@
 {
     "include":
     [
-        "cfg/maps/globals/halflife/main.json"
+        "cfg/maps/globals/opfor_ctf/main.json"
     ],
     "SectionGroups":
     [
         {
+            "Condition": "Multiplayer",
             "Sections":
             {
+                /*This map uses game_player_equip to set player inventory*/
                 "SpawnInventory":
                 {
                     "Reset": true,
                     "HasSuit": true
-                },
-                "Skill":
-                {
-                    "FileNames":
-                    [
-                        "cfg/maps/zoo_npcs_skill.json"
-                    ]
                 }
             }
         }

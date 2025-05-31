@@ -1,0 +1,29 @@
+{
+    "include":
+    [
+        "cfg/server/map_base_config.json"
+    ],
+    "SectionGroups":
+    [
+        {
+            "Sections":
+            {
+                "Sentences":
+                {
+                    "FileNames": ["sound/bs_sentences.json"]
+                },
+                "GlobalModelReplacement":
+                {
+                    "FileNames": ["cfg/maps/globals/blueshift/model_replacement.json"]
+                },
+                "GlobalSentenceReplacement":
+                {
+                    "FileNames": ["cfg/maps/globals/blueshift/sentence_replacement.json"]
+                },
+                "HudColor": "95 95 255",
+                "CrosshairColor": "255 160 0",
+                "SuitLightType": "flashlight"
+            }
+        }
+    ]
+}

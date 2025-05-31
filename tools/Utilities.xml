@@ -1723,7 +1723,7 @@
             <example>
             A map made for version <c>1.0.0</c> upgraded to version <c>3.0.0</c> will have upgrades applied for versions
             starting from the version after <c>1.0.0</c> up to and including <c>3.0.0</c>.
-            The map will have a keyvalue <c>UpgradeToolVersion</c> added containing the version it was upgraded to.
+            The map will have a keyvalue <c>version</c> added containing the version it was upgraded to.
             </example>
         </member>
         <member name="F:Utilities.Tools.UpgradeTool.MapUpgradeTool.DefaultGameVersionKey">
@@ -1759,7 +1759,7 @@
             <returns>The version the map was upgraded from and the version the map was upgraded to.</returns>
             <exception cref="T:System.ArgumentNullException"><paramref name="command"/> or <c>command.Map</c> are <see langword="null"/>.</exception>
             <exception cref="T:System.ArgumentException">
-            If the map contains a <c>UpgradeToolVersion</c> value that is not a valid semantic version string.
+            If the map contains a <c>version</c> value that is not a valid semantic version string.
             </exception>
             <exception cref="T:Utilities.Tools.UpgradeTool.MapUpgradeException">
             If the version to upgrade from is older than the map version
