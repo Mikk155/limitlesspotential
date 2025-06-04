@@ -1,0 +1,18 @@
+{
+    "include":
+    [
+        "cfg/globals/halflife/main.json"
+    ],
+    "SectionGroups":
+    [
+        {
+            "Sections":
+            {
+                "SpawnInventory":
+                {
+                    "HasSuit": true
+                }
+            }
+        }
+    ]
+}
