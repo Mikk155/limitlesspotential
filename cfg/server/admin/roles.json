@@ -1,0 +1,8 @@
+{
+    "$schema": "../../../schemas/server/admin_interface.json",
+
+    "ent_commands": [
+        "ent_trigger",
+        "ent_triggerrange"
+    ]
+}

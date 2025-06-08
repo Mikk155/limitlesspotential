@@ -1,0 +1,7 @@
+{
+    "$schema": "../../../schemas/server/admin_interface.json",
+
+    "STEAM_ID_": [
+        "ent_commands"
+    ]
+}
