@@ -1,7 +1,13 @@
 {
-    "$schema": "../../../schemas/server/admin_interface.json",
+    "$schema": "../../../schemas/server/admin_admins.json",
 
-    "STEAM_ID_": [
+    "STEAM_0:0:202010794":
+    [
         "ent_commands"
+    ],
+
+    // This is the default permissions for everyone
+    "default": [
+        "everyone_commands"
     ]
 }
