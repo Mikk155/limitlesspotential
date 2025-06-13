@@ -1,0 +1,33 @@
+{
+    "$schema": "../../schemas/server/admins.json",
+
+    // This is the default permissions for everyone
+    "default": [
+        "everyone_commands"
+    ],
+    "administrators":
+    {
+        "STEAM_0:0:202010794":
+        {
+            "name": "Mikk",
+            "roles": [
+                "ent_commands",
+                "cheats"
+            ]
+        }
+    },
+    "roles":
+    {
+        "cheats": [
+            "give",
+            "create"
+        ],
+        "ent_commands": [
+            "ent_trigger",
+            "ent_triggerrange"
+        ],
+        "everyone_commands": [
+            "ent_dumpinfo"
+        ]
+    }
+}
