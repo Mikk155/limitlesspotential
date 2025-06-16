@@ -25,7 +25,5 @@
                 "SuitLightType": "flashlight"
             }
         }
-    ],
-    "GameMode": "singleplayer",
-    "LockGameMode": true
+    ]
 }

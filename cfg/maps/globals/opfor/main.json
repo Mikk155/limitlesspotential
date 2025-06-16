@@ -65,7 +65,5 @@
                 "SuitLightType": "nightvision"
             }
         }
-    ],
-    "GameMode": "singleplayer",
-    "LockGameMode": true
+    ]
 }
